@@ -1,0 +1,16 @@
+body{
+	background-color: grey;
+	background-image: url("bg.jpg");
+	color: white;
+	text-align: center;
+	margin-top: 10%;
+	font-size: 30px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif
+
+}
+
+#bullets {
+	text-align: left;
+	margin-left: 20%;
+	font-size: 20px;
+}
